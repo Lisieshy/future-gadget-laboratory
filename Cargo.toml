@@ -2,6 +2,11 @@
 name = "future_gadget_laboratory"
 version = "0.0.1048596"
 edition = "2021"
+license = "MIT"
+description = "A library for time travel experiments."
+homepage = "https://github.com/Lisieshy/future-gadet-laboratory"
+repository = "https://github.com/Lisieshy/future-gadet-laboratory"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
