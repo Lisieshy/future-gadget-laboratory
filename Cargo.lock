@@ -4,7 +4,7 @@ version = 3
 
 [[package]]
 name = "future_gadget_laboratory"
-version = "0.0.1048596"
+version = "0.1.1048596"
 dependencies = [
  "proc-macro2",
  "quote",

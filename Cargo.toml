@@ -1,6 +1,6 @@
 [package]
 name = "future_gadget_laboratory"
-version = "0.0.1048596"
+version = "0.1.1048596"
 edition = "2021"
 license = "MIT"
 description = "A library for time travel experiments."
